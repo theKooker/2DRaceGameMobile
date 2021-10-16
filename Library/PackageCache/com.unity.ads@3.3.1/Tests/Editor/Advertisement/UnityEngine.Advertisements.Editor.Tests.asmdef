@@ -1,0 +1,20 @@
+{
+    "name": "UnityEngine.Advertisements.Editor.Tests",
+    "references": [
+        "UnityEngine.Advertisements"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "!ADS_ASSET_STORE_PACKAGE_DETECTED"
+    ]
+}

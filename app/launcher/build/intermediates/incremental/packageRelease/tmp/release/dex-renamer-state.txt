@@ -1,0 +1,4 @@
+#Wed Sep 29 18:03:44 CEST 2021
+base.0=C\:\\Users\\49152\\Desktop\\UnityProjects\\2D race game mobile\\app\\launcher\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

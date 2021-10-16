@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\49152\\Desktop\\UnityProjects\\2D race game mobile\\app\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_app_icon_round.png.flat",
+        "source": "C:\\Users\\49152\\Desktop\\UnityProjects\\2D race game mobile\\app\\launcher\\src\\main\\res\\mipmap-xxxhdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\49152\\Desktop\\UnityProjects\\2D race game mobile\\app\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_app_icon.png.flat",
+        "source": "C:\\Users\\49152\\Desktop\\UnityProjects\\2D race game mobile\\app\\launcher\\src\\main\\res\\mipmap-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\49152\\Desktop\\UnityProjects\\2D race game mobile\\app\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-ldpi_app_icon_round.png.flat",
+        "source": "C:\\Users\\49152\\Desktop\\UnityProjects\\2D race game mobile\\app\\launcher\\src\\main\\res\\mipmap-ldpi\\app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\49152\\Desktop\\UnityProjects\\2D race game mobile\\app\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_app_icon.png.flat",
+        "source": "C:\\Users\\49152\\Desktop\\UnityProjects\\2D race game mobile\\app\\launcher\\src\\main\\res\\mipmap-xhdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\49152\\Desktop\\UnityProjects\\2D race game mobile\\app\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_app_icon.png.flat",
+        "source": "C:\\Users\\49152\\Desktop\\UnityProjects\\2D race game mobile\\app\\launcher\\src\\main\\res\\mipmap-xxxhdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\49152\\Desktop\\UnityProjects\\2D race game mobile\\app\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_app_icon_round.png.flat",
+        "source": "C:\\Users\\49152\\Desktop\\UnityProjects\\2D race game mobile\\app\\launcher\\src\\main\\res\\mipmap-xhdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\49152\\Desktop\\UnityProjects\\2D race game mobile\\app\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_app_icon_round.png.flat",
+        "source": "C:\\Users\\49152\\Desktop\\UnityProjects\\2D race game mobile\\app\\launcher\\src\\main\\res\\mipmap-xxhdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\49152\\Desktop\\UnityProjects\\2D race game mobile\\app\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-ldpi_app_icon.png.flat",
+        "source": "C:\\Users\\49152\\Desktop\\UnityProjects\\2D race game mobile\\app\\launcher\\src\\main\\res\\mipmap-ldpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\49152\\Desktop\\UnityProjects\\2D race game mobile\\app\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_app_icon_round.png.flat",
+        "source": "C:\\Users\\49152\\Desktop\\UnityProjects\\2D race game mobile\\app\\launcher\\src\\main\\res\\mipmap-mdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\49152\\Desktop\\UnityProjects\\2D race game mobile\\app\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_app_icon.png.flat",
+        "source": "C:\\Users\\49152\\Desktop\\UnityProjects\\2D race game mobile\\app\\launcher\\src\\main\\res\\mipmap-hdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\49152\\Desktop\\UnityProjects\\2D race game mobile\\app\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_app_icon_round.png.flat",
+        "source": "C:\\Users\\49152\\Desktop\\UnityProjects\\2D race game mobile\\app\\launcher\\src\\main\\res\\mipmap-hdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\49152\\Desktop\\UnityProjects\\2D race game mobile\\app\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_app_icon.png.flat",
+        "source": "C:\\Users\\49152\\Desktop\\UnityProjects\\2D race game mobile\\app\\launcher\\src\\main\\res\\mipmap-xxhdpi\\app_icon.png"
+    }
+]

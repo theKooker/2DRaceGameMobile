@@ -1,0 +1,23 @@
+{
+    "name": "UnityEngine.Advertisements.Tests",
+    "references": [
+        "UnityEngine.Advertisements",
+        "UnityEngine.Monetization"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Android",
+        "Editor",
+        "iOS"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "!ADS_ASSET_STORE_PACKAGE_DETECTED"
+    ]
+}
